@@ -4,6 +4,14 @@ local plugins = {
     lazy = false,
 
   },
+
+  {
+    "nvim-tree/nvim-tree.lua",
+    lazy = false,
+    dependencies = {
+      "nvim-tree/nvim-web-devicons",
+    },
+  },
   
   {
     'nvim-lualine/lualine.nvim',

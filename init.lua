@@ -18,4 +18,6 @@ require("plugins/treesitter")
 require("plugins/lspconfig")
 require("plugins/cmp")
 require("plugins/indent-blankline")
+require("plugins/tree")
+require("keymaps")
 
