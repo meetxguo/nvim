@@ -13,6 +13,7 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy-nvim")
 require("options")
+require("plugins/dracula")
 require("plugins/lualine")
 require("plugins/treesitter")
 require("plugins/lspconfig")

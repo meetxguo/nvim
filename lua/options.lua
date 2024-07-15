@@ -5,4 +5,4 @@ opts.sw=2
 opts.expandtab=true
 
 
-vim.cmd('colorscheme gruvbox')
+vim.cmd('colorscheme dracula')
